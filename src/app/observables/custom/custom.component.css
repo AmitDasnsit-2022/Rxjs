@@ -1,0 +1,31 @@
+
+ul.custom-error li{
+
+  color: red;
+  background: #f8eaee8c;
+  background-color: #ff000014;
+    border: rounded;
+    padding: 0px;
+    margin: 0px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: -1px 13px;
+    padding: 8px 13px;
+}
+ul.custom-complete li{
+  color:green;
+  background: rgb(193, 236, 193);
+  background-color: rgb(158, 243, 158);
+  background: whitesmoke;
+  border: rounded;
+  padding: 0px;
+  margin: 0px;
+  border: 2px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: -1px 13px;
+  padding: 8px 13px;
+}
+.col-md-12{
+  margin-left: 10px;}
